@@ -29,4 +29,22 @@ This project allows users to **add, view, edit, search, and delete** contact rec
 ---
 
 ## 📂 Project Structure
+📁 Contact-Manager
+├── contact_manager.py # Main Streamlit app
+├── contacts.json # Local storage file (auto-created)
+├── README.md # Project documentation
+└── requirements.txt # Dependencies list
+
+---
+##🧠 Concepts Demonstrated
+
+Object-Oriented Programming (OOP)
+
+CRUD Operations
+
+Streamlit UI Components
+
+File Handling (JSON Storage)
+
+Input Validation & Error Handling
 
